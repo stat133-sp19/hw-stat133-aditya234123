@@ -1,25 +1,51 @@
-### team_name: The team name
+### team_name:
 
-### game_date: The date the game happened
+The team name
 
-### season: The year of the season where the game occurred
+### game_date:
 
-### period: Refers to what quarter the game was in. 1 - 4
+The date the game happened
 
-### minutes_remaining: How many minutes were left in the quarter / period
+### season:
 
-### seconds_remaining: How many seconds remaining in the quater / period. The total time left in the quarter is this plus minutes_remaining
+The year of the season where the game occurred
 
-### shot_made_flag: Whether or not the shot was made. yes (y) or no (n)
+### period:
 
-### action_type: Refers to the basketball moves done in order to either pass defenders or get a clean pass to score a 2/3 pointer
+Refers to what quarter the game was in. 1 - 4
 
-### shot_type: Indicates if it was a shot worth 2 or 3 points
+### minutes_remaining:
 
-### shot_distance: Distance to the basket, measured in feet
+How many minutes were left in the quarter / period
 
-# opponent: Team being played against
+### seconds_remaining:
 
-# x: Court coordinate in the x direction, measured in inches
+How many seconds remaining in the quater / period. The total time left in the quarter is this plus minutes_remaining
 
-# y: Court coordinate in the y direction, measured in inches
+### shot_made_flag:
+
+Whether or not the shot was made. yes (y) or no (n)
+
+### action_type:
+
+Refers to the basketball moves done in order to either pass defenders or get a clean pass to score a 2/3 pointer
+
+### shot_type:
+
+Indicates if it was a shot worth 2 or 3 points
+
+### shot_distance:
+
+Distance to the basket, measured in feet
+
+### opponent:
+
+Team being played against
+
+### x:
+
+Court coordinate in the x direction, measured in inches
+
+### y:
+
+Court coordinate in the y direction, measured in inches
