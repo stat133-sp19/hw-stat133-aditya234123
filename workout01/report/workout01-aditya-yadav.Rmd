@@ -117,7 +117,7 @@ To further prove the ridiculous shooting ability of these players, we can take a
 <br>
 <hr>
 
-#####2pt Effective Shooting Percentage by Player:
+**2pt Effective Shooting Percentage:**
 
 ```{r}
 df_2pt_perc
@@ -127,7 +127,7 @@ From this table we can see that almost every one of these players makes **50+%**
 
 <hr>
 
-#####3pt Effective Shooting Percentage by Player:
+**3pt Effective Shooting Percentage:**
 
 ```{r}
 df_3pt_perc
@@ -137,7 +137,7 @@ Looking at the 3 point effective shooting percentage, we can see how talented th
 
 <hr>
 
-#####Total Effective Shooting Percentage by Player:
+**Total Effective Shooting Percentage:**
 
 ```{r}
 df_all_perc
