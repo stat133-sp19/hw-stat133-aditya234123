@@ -160,6 +160,7 @@ df_3pt_perc
 Looking at the 3 point effective shooting percentage, we can see how talented these top players are from far as well. The top players like Stephen Curry and Klay Thompson make around **40%** of their 3 point shots. The rest have pretty high numbers as well. It is definitely unusual to see such high numbers among not 1, or 2, but by around 4-5 different players on the same team.
 
 <hr>
+
 #### Total Effective Shooting Percentage:
 
 ``` r
