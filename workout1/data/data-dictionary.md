@@ -1,4 +1,4 @@
-##Data Dictionary for datasets:
+## Data Dictionary for datasets:
 
 - andre-iguodala.csv
 - draymond-green.csv
