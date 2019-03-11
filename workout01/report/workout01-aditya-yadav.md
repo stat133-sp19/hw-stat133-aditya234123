@@ -126,7 +126,7 @@ To further prove the ridiculous shooting ability of these players, we can take a
 
 <br>
 <hr>
-#### 2pt Effective Shooting Percentage by Player:
+##### 2pt Effective Shooting Percentage by Player:
 
 ``` r
 df_2pt_perc
@@ -142,7 +142,7 @@ df_2pt_perc
 From this table we can see that almost every one of these players makes **50+%** of their 2 point shots. 2 actually make **60+%** with the highest being Andre Iguodala at **63%.** That’s a ridiculous number and clearly shows the power Golden State has either in the paint or from 2pt range. Other teams don’t shoot as many mid-range shots as Golden State, however if those teams had players like this, we just might see that change as well.
 
 <hr>
-#### 3pt Effective Shooting Percentage by Player:
+##### 3pt Effective Shooting Percentage by Player:
 
 ``` r
 df_3pt_perc
@@ -158,7 +158,7 @@ df_3pt_perc
 Looking at the 3 point effective shooting percentage, we can see how talented these top players are from far as well. The top players like Stephen Curry and Klay Thompson make around **40%** of their 3 point shots. The rest have pretty high numbers as well. It is definitely unusual to see such high numbers among not 1, or 2, but by around 4-5 different players on the same team.
 
 <hr>
-#### Total Effective Shooting Percentage by Player:
+##### Total Effective Shooting Percentage by Player:
 
 ``` r
 df_all_perc
