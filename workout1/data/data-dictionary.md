@@ -1,3 +1,11 @@
+##Data Dictionary for datasets:
+
+- andre-iguodala.csv
+- draymond-green.csv
+- kevin-durant.csv
+- klay-thompson.csv
+- stephen-curry.csv
+
 ### team_name:
 
 The team name
