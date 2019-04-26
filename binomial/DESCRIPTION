@@ -1,0 +1,21 @@
+Package: binomial
+Type: Package
+Title: Calculations for Binomial Random Variables
+Version: 0.1.0
+Author: Aditya Yadav
+Maintainer: Aditya Yadav <aditya234123@berkeley.edu>
+Description: The binomial package makes calculating probabilities for 
+    binomial random variables very simple. It also helps with related
+    calculations such as the expected value, variance, mode, skewness
+    and kurtosis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: 
+    ggplot2
+Suggests: 
+    testthat,
+    knitr
+VignetteBuilder: knitr
+
