@@ -5,7 +5,7 @@ The binomial package makes calculating probabilities for binomial random variabl
 
 This introduction will take you through each function to help you understand how to use it.
 
-##Binomial Summary Measures:
+## Binomial Summary Measures:
 
 ### * bin_mean(*trials, prob*):
 
@@ -81,7 +81,7 @@ bin_kurtosis(10,0.3)
 
 <br>
 
-##bin_choose(*n, k*):
+## bin_choose(*n, k*):
 
 * This function calculates the number of combinations in which *k* successes can occurr in *n* trials.
 
@@ -100,7 +100,7 @@ bin_choose(5, 1:4)
 
 <br>
 
-##bin_probability(*success, trials, prob*):
+## bin_probability(*success, trials, prob*):
   * This function calculates the probability of getting *success* number of successes in *trials* number of trials, given that the probability of success is *prob*.
   * It checks to ensure that probability is between 0 and 1, and that trials and success are both valid parameters for the binomial distribution.
   * Again this is also vectorized as seen below.
@@ -114,7 +114,7 @@ bin_probability(0:3,5,0.5)
 
 <br>
 
-##bin_distribution(*trials, prob*):
+## bin_distribution(*trials, prob*):
 
 * This function calculates a binomial distribution given:
    * trials = number of trials
@@ -138,7 +138,7 @@ plot(bin_distribution(5, 0.5))
 
 <br>
 
-##bin_cumulative(*trials, prob*):
+## bin_cumulative(*trials, prob*):
 
 * This function is similar to bin_probability()
 
@@ -160,7 +160,7 @@ plot(bin_cumulative(5, 0.5))
 
 <br>
 
-##bin_variable(*trials, prob*):
+## bin_variable(*trials, prob*):
 
 * Another function we have is bin_variable(). This basically returns an object of class 'binvar' which is a list of named elements:
     * trials: number of trials
